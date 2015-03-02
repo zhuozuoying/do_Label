@@ -1,0 +1,6 @@
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\bin\Debug\doUIViewDesign.Label.dll
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\bin\Debug\doUIViewDesign.Label.pdb
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\bin\Debug\doControlLib.dll
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\obj\Debug\do_Label.csprojResolveAssemblyReference.cache
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\obj\Debug\doUIViewDesign.Label.dll
+D:\MyWork\designer_comp\do_Label\src\designer\do_Label\do_Label\obj\Debug\doUIViewDesign.Label.pdb

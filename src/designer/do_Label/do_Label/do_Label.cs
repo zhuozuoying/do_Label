@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace doUIViewDesign
 {
-    class doLabel : doComponentUIView
+    class do_Label : doComponentUIView
     {
         public override void DrawControl(int _x, int _y, int _width, int _height, Graphics g)
         {
