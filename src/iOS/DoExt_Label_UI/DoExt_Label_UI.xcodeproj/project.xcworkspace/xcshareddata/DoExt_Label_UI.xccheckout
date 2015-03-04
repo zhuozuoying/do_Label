@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11044AD9-A929-435C-9C63-587FD9CBFF0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DoExt_Label_UI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DFA324429CA4B3D8BA95163FCEAE987EDFDE9D66</key>
+		<string>https://github.com/deviceone/do_Label.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/iOS/DoExt_Label_UI/DoExt_Label_UI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DFA324429CA4B3D8BA95163FCEAE987EDFDE9D66</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deviceone/do_Label.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DFA324429CA4B3D8BA95163FCEAE987EDFDE9D66</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFA324429CA4B3D8BA95163FCEAE987EDFDE9D66</string>
+			<key>IDESourceControlWCCName</key>
+			<string>do_Label</string>
+		</dict>
+	</array>
+</dict>
+</plist>

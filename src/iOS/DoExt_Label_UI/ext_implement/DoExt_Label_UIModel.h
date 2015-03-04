@@ -7,6 +7,6 @@
 //
 #import "doUIModule.h"
 
-@interface Do_Label_UIModel : doUIModule
+@interface DoExt_Label_UIModel : doUIModule
 
 @end

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A4D118AF1A70D50F002F1A18"
-               BuildableName = "libDoExt_Label_UI__.a"
+               BuildableName = "libDoExt_Label_UI.a"
                BlueprintName = "DoExt_Label_UI"
                ReferencedContainer = "container:DoExt_Label_UI.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4D118AF1A70D50F002F1A18"
-            BuildableName = "libDoExt_Label_UI__.a"
+            BuildableName = "libDoExt_Label_UI.a"
             BlueprintName = "DoExt_Label_UI"
             ReferencedContainer = "container:DoExt_Label_UI.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4D118AF1A70D50F002F1A18"
-            BuildableName = "libDoExt_Label_UI__.a"
+            BuildableName = "libDoExt_Label_UI.a"
             BlueprintName = "DoExt_Label_UI"
             ReferencedContainer = "container:DoExt_Label_UI.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4D118AF1A70D50F002F1A18"
-            BuildableName = "libDoExt_Label_UI__.a"
+            BuildableName = "libDoExt_Label_UI.a"
             BlueprintName = "DoExt_Label_UI"
             ReferencedContainer = "container:DoExt_Label_UI.xcodeproj">
          </BuildableReference>

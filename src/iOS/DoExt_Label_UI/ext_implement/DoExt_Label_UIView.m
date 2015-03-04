@@ -6,14 +6,14 @@
 //  Copyright (c) 2015年 DoExt. All rights reserved.
 //
 
-#import "Do_Label_UIView.h"
+#import "DoExt_Label_UIView.h"
 
 #import "doInvokeResult.h"
 #import "doUIModuleHelper.h"
 #import "doScriptEngineHelper.h"
 #import "doIScriptEngine.h"
 
-@implementation Do_Label_View
+@implementation DoExt_Label_View
 {
     NSString *_myFontStyle;
 }
